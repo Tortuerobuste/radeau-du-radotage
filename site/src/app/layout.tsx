@@ -1,8 +1,10 @@
 import type { Metadata } from "next";
 import { Spectral, Inter } from "next/font/google";
 import Link from "next/link";
+import Script from "next/script";
 import "./globals.css";
 import { BasculeTheme } from "@/components/BasculeTheme";
+import { NavConnexion } from "@/components/NavConnexion";
 import { SITE_DESCRIPTION, SITE_NOM, SITE_URL } from "@/lib/site";
 
 const spectral = Spectral({
@@ -53,12 +55,13 @@ export default function RootLayout({
     <html lang="fr" suppressHydrationWarning>
       <head>
         {/* Applique le thème choisi avant le premier rendu, pour éviter
-            l'éclair blanc sur un écran sombre. */}
-        <script
-          dangerouslySetInnerHTML={{
-            __html: `try{var t=localStorage.getItem("theme");if(t)document.documentElement.dataset.theme=t}catch(e){}`,
-          }}
-        />
+            l'éclair blanc sur un écran sombre. Passe par next/script, et
+            dans <head> : une balise <script> écrite à la main n'est pas
+            rejouée lors des navigations côté client, et placée directement
+            sous <html> elle casse l'hydratation. */}
+        <Script id="theme-avant-rendu" strategy="beforeInteractive">
+          {`try{var t=localStorage.getItem("theme");if(t)document.documentElement.dataset.theme=t}catch(e){}`}
+        </Script>
       </head>
       <body className={`${spectral.variable} ${inter.variable}`}>
         <a
@@ -86,6 +89,7 @@ export default function RootLayout({
                   {l.libelle}
                 </Link>
               ))}
+              <NavConnexion />
               <BasculeTheme />
             </nav>
           </div>
@@ -102,14 +106,7 @@ export default function RootLayout({
                 className="text-encre-douce underline decoration-trait underline-offset-4 hover:text-accent"
               >
                 Flux RSS
-              </a>{" "}
-              ·{" "}
-              <Link
-                href="/connexion"
-                className="text-encre-douce underline decoration-trait underline-offset-4 hover:text-accent"
-              >
-                Connexion
-              </Link>
+              </a>
             </p>
           </div>
         </footer>

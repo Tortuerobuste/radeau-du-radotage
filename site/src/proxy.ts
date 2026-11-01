@@ -13,7 +13,9 @@ import {
  * `if` dans son composant laisse passer trop de choses.
  */
 export async function proxy(request: NextRequest) {
-  const protege = request.nextUrl.pathname.startsWith("/ecrire");
+  const protege =
+    request.nextUrl.pathname.startsWith("/ecrire") ||
+    request.nextUrl.pathname.startsWith("/mes-poemes");
 
   if (!supabaseConfigure) {
     // Pas de base configurée : on n'ouvre surtout pas l'espace d'écriture.

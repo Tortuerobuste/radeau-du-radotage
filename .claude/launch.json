@@ -4,8 +4,8 @@
     {
       "name": "radeau",
       "runtimeExecutable": "npm",
-      "runtimeArgs": ["run", "dev", "--prefix", "site", "--", "--port", "3210"],
-      "port": 3210
+      "runtimeArgs": ["run", "dev", "--prefix", "site", "--", "--port", "3310"],
+      "port": 3310
     }
   ]
 }

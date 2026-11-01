@@ -155,7 +155,10 @@ export function Editeur({ poeme }: { poeme?: PoemeAModifier }) {
         <button
           type="button"
           onClick={envoyer}
-          disabled={etat === "envoi" || !titre.trim() || !texte.trim()}
+          // Jamais grisé pour cause de champ vide : un bouton mort, sans
+          // explication, laisse croire que le site est cassé. On laisse
+          // cliquer, et on dit ce qui manque.
+          disabled={etat === "envoi"}
           className="rounded-full bg-accent px-8 py-4 font-sans text-base text-paper transition-opacity hover:opacity-90 disabled:cursor-not-allowed disabled:opacity-40"
         >
           {etat === "envoi"
@@ -201,10 +204,12 @@ export function Editeur({ poeme }: { poeme?: PoemeAModifier }) {
               </button>
             </div>
           ) : (
+            // Un bouton visible, pas un lien perdu en bas de page :
+            // il doit pouvoir le trouver sans qu'on le lui montre.
             <button
               type="button"
               onClick={() => setConfirmeSuppression(true)}
-              className="font-sans text-sm text-encre-douce underline decoration-trait underline-offset-4 hover:text-accent"
+              className="rounded-full border border-trait px-6 py-3 font-sans text-sm text-encre-douce transition-colors hover:border-accent hover:text-accent"
             >
               Supprimer ce poème
             </button>
