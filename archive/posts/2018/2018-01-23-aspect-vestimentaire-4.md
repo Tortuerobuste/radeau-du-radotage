@@ -1,0 +1,99 @@
+---
+title: "Le bon roi Dagobert"
+date: "2018-01-23"
+datetime: "2018-01-23T15:56:40+00:00"
+auteur: "010446g"
+categories: ["Non classé"]
+source: "http://radotage010446g.unblog.fr/2018/01/23/aspect-vestimentaire-4/"
+slug: "2018-01-23-aspect-vestimentaire-4"
+---
+
+# Le bon roi Dagobert
+
+-
+
+-  
+« Le bon roi Dagobert,  
+Avait sa culotte à l´envers,  
+Le grand Saint Eloi lui dit :  
+« O mon Roi, Votre majesté  
+Est mal culottée »  
+« C´est vrai, lui dit le roi,  
+Je vais la remettre à l´endroit »
+
+Ce n’est pas la culotte, mais la veste  
+Que retournent les politiques  
+Peu importe! Il faut qu’ils restent:  
+Le pouvoir, le fric, c’est fantastique!  
+Le saint Eloi des sondages  
+Guide leurs rodomontades  
+En chute? Mon Dieu! Quel dommage!  
+Vite! trouver une parade!
+
+Le bon roi Dagobert  
+Chassait dans la plaine d´Anvers  
+Le grand Saint Eloi lui dit :  
+« O mon Roi, Votre Majesté  
+Est bien essoufflée »  
+« C´est vrai, lui dit le roi,  
+Un lapin courait après moi »
+
+La chasse à courre  
+Quelle belle tradition  
+S’est écrié le roi Macron  
+Aux cris des vieux rester sourd  
+Je les pourchasse, j’assume  
+C’est la dorée génération  
+Avant qu’on ne les inhume  
+Il vont payer pour la Nation.
+
+Le bon roi Dagobert  
+Voulait s´embarquer sur la mer.  
+Le grand Saint Eloi lui dit :  
+« O mon Roi, Votre majesté  
+Se fera noyer »  
+« C´est vrai, lui dit le roi,  
+On pourra crier : le roi boit! »
+
+Boire du vin c’est la santé  
+L’alcool ce sont autres boissons  
+J’en bois toujours à satiété  
+A répété le roi Macron.  
+Peu importe autres messages  
+Puisque des capitalistes  
+Se sont emparés des cépages  
+Ne soyons pas négationnistes.
+
+Le bon roi Dagobert  
+Mangeait en glouton du dessert.  
+Le grand Saint Eloi lui dit :  
+« O mon Roi, vous êtes gourmand,  
+Ne mangez pas tant. »  
+« C´est vrai, lui dit le roi,  
+Je ne le suis pas tant que toi »
+
+Ni vu ni connu je t’embrouille  
+J’te prends, j’te rends autrement  
+Je te fais le fond des fouilles  
+Tu dois me croire évidemment!  
+Allez un coup d’ pouce au gas-oil  
+Ca fait plaisir aux écolos  
+Tant pis pour qui n’a pas de poële  
+Plus cher le gaz, oh! oh! oh!
+
+Quand Dagobert mourut  
+Le Diable aussitôt accourut.  
+Le grand Saint Eloi lui dit :  
+« O mon Roi, satan va passer  
+Faut vous confesser »  
+« Hélas!, lui dit le roi,  
+Ne pourrais-tu mourir pour moi? »
+
+Quand la faux sur lui viendra  
+Surtout jamais qu’il ne compte  
+Que sa dépouille deviendra  
+Autre chose qu’un mécompte.  
+On dansera dans les EPHAD  
+On rira bien dans les villages  
+On jouera partout des aubades  
+Pour fêter le grand ménage.

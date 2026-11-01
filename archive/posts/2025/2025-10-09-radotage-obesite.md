@@ -1,0 +1,46 @@
+---
+title: "Radotage: obésité"
+date: "2025-10-09"
+datetime: "2025-10-09T10:28:08+00:00"
+auteur: "010446g"
+categories: ["Non classé"]
+source: "http://radotage010446g.unblog.fr/2025/10/09/radotage-obesite/"
+slug: "2025-10-09-radotage-obesite"
+---
+
+# Radotage: obésité
+
+### Pandémie?
+
+Selon les doctes conclusions  
+De chercheurs , des plus sagaces,  
+Une pandémie _ malédiction! _  
+L’avenir de l’espèce humaine menace.  
+***L’ O B E S I T E***  
+Puisqu’ainsi il faut la nommer  
+Gagne, gagne en intensité  
+Son danger vient nous sommer…  
+Certes, au gré de leurs nobles idées  
+Immobilisme et sédentarité  
+Seraient agents de la fatalité…  
+Pauvres, pauvres humains  
+A leur dimension limités!  
+Une puissance AUTRE ,c’est certain,  
+Pousse vers cette adversité:  
+La planète est trop peuplée…  
+De manière insidieuse,  
+La Nature veut limiter  
+La multiplication désastreuse.  
+Elle a déjà fait baisser  
+Le taux de fécondité,  
+Par perte d’appétence  
+Aux lois de reproduction intense;  
+Par perte de vigueur  
+Des organes reproducteurs….  
+Darwin nous a enseigné  
+Que toute espèce, avant de dégénérer  
+Commence par se sur développer  
+En poussant vers l’énormité.  
+Y remédier ne sera pas à la portée  
+Du mortel au temps limité.  
+Cet article a été posté le Mercredi 2 octobre 2024

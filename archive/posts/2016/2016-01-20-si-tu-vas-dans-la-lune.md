@@ -1,0 +1,35 @@
+---
+title: "Si tu vas dans la lune…"
+date: "2016-01-20"
+datetime: "2016-01-20T20:21:28+00:00"
+auteur: "010446g"
+categories: ["Non classé"]
+source: "http://radotage010446g.unblog.fr/2016/01/20/si-tu-vas-dans-la-lune/"
+slug: "2016-01-20-si-tu-vas-dans-la-lune"
+---
+
+# Si tu vas dans la lune…
+
+Tu n’es pas Aldrin, je ne suis pas Musset…
+
+Si tu vas dans la lune  
+Ben je viens avec toi  
+Par les champs, par les bois,  
+En grimpant sur les dunes,  
+En rampant sur les toits.  
+Pas besoin de boussole,  
+Pas besoin de GPS  
+Lorsque l’esprit s’envole  
+Au diable, les ABS!  
+Car notre course folle  
+Ne craint aucun péril  
+C’est une farandole  
+Sur minuscules fils.  
+Doigt vissé sur la tempe  
+Les autres prétendront  
+« Ca ne tient pas la rampe  
+C’est même vraiment c… »  
+Mais les yeux dans les astres  
+Jamais ne prêterons  
+Attention au désastre  
+Que tous nous prédiront.

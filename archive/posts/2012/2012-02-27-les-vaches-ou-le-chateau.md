@@ -1,0 +1,27 @@
+---
+title: "Les vaches ou le château?"
+date: "2012-02-27"
+datetime: "2012-02-27T20:16:30+00:00"
+auteur: "010446g"
+categories: ["Non classé"]
+source: "http://radotage010446g.unblog.fr/2012/02/27/les-vaches-ou-le-chateau/"
+slug: "2012-02-27-les-vaches-ou-le-chateau"
+---
+
+# Les vaches ou le château?
+
+Quand je vois la star du salon de l’agriculture, des souvenirs remontent en moi.  
+Cette année-là, j’avais passé le gros des vacances à retaper la maison natale. Ne restait qu’une semaine que nous décidâmes de passer dans le sud-ouest.
+
+Nous voulions visiter quelques châteaux cathares : l’accueil de ST Jean de Luz, en cette fin de période estivale nous ayant paru peu agréable.
+
+En restant aux flancs des Pyrénées, nous revenions en direction de la Méditerranée.  
+Montségur nous tenta… nous voilà sur la route.  
+En cours de montée, nous nous trouvons bloqués par un char trainé par deux bœufs gascons. Le vieux paysan qui les conduisait était bien ennuyé de ne pouvoir nous laisser  le doubler…
+
+Me voilà donc à discuter avec lui de ses bœufs, visiblement fatigués, des races de vaches que la mode uniformisatrice cherchait à réduire à quatre grandes branches, de la valeur d’une bête adaptée à son terroir… et le voilà qui nous invite à visiter son étable peuplée de « blondes des Pyrénées » _ non ! pas des bêtes dont l’échine s’allonge démesurément comme leurs cousines, les blondes d’aquitaine _ des bêtes dorées, aux cornes en forme de lyre, aux membres solides, avec une mamelle esthétiquement équilibrée… La copie conforme de nos Villard de Lans…
+
+(Pas étonnant me suis-je dit : les moines qui avaient repéré la valeur des vaches du Mézenc et avaient implanté les ancêtres de notre cheptel avaient certainement fait de même pour les Pyrénées… et même en Aquitaine… La qualité des herbages et le savoir-faire des paysans les avait fait évoluer.)
+
+Et le château me direz-vous ? Qu’en pensa mon épouse ?  
+Ce  fut tant pis pour le château… et mon épouse ne fut pas trop déçue : n’avais-je pas attiré pour la première fois son attention en lui parlant avec enthousiasme de la nécessité de protéger les vaches de Villard de Lans ?

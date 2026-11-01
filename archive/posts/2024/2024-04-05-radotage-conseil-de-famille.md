@@ -1,0 +1,62 @@
+---
+title: "radotage :Conseil de famille"
+date: "2024-04-05"
+datetime: "2024-04-05T22:27:20+00:00"
+auteur: "010446g"
+categories: ["Non classé"]
+source: "http://radotage010446g.unblog.fr/2024/04/05/radotage-conseil-de-famille/"
+slug: "2024-04-05-radotage-conseil-de-famille"
+---
+
+# radotage :Conseil de famille
+
+###
+
+Tout autour de la table,  
+Dans un ordre impeccable,  
+Ils se sont assis, pour ouvrir le débat,  
+Important, pour lequel ils sont là.  
+Le trisaïeul, surpris d’avoir tant de visites,  
+Juste après le repas s’est retiré bien vite.  
+C’est une grande réunion  
+D’adultes de trois générations.  
+Pendant que le vieux dort, on pourra discuter,  
+Car vraiment, cela ne peut continuer.  
+Ils sont venus de loin,  sur  convocation.  
+C’est que le vieux, ma foi,  devient vraiment sénile,  
+Il prend des décisions de nature infantile.  
+Il gaspillerait, si on n’y met bon ordre,  
+Tout son patrimoine, tout leur héritage.  
+Certains en ont conçu la grosse envie de mordre,  
+D’arrêter tout de suite cet horrible saccage.  
+Il a toujours, c’est vrai, eu cette manie bizarre  
+De faire des cadeaux, un peu, à n’importe qui…  
+Au mendiant qui traîne, dans la rue, sur le tard,  
+Au balayeur des rues qui lui a bien souri…  
+Mais ça devient très grave:  
+Tellement d’employés. tant de choses chères  
+Commandées sans entrave  
+Pour sauver tant de hères!  
+C’est tout le patrimoine qu’il va dilapider.  
+Le fils aîné,  se lève comme pour protester:  
+« Le père est libre, encore, qu’il fasse de ses biens  
+Ce que bon lui semble: il en a les moyens  
+C’est vrai, dit le second, mais il est imprudent.  
+On ne connaît rien, rien du tout de ces gens.  
+Et puis dit une fille, tous ces animaux  
+Qui s’installent chez lui qui craignait tous les maux…  
+Je voudrais proposer, dit le benjamin,  
+De mettre le vieux chnoque sous une curatelle,  
+Bloquer son compte en banque,  renvoyer le personnel,  
+Et de placer le vioque dans une institution.  
+Tous le regardèrent surpris par la proposition.  
+Personne n’aurait osé formuler clairement  
+Ce qui était envisagé dans la convocation.  
+J’ai déjà pris contact, dit l’un, tout doucement  
+Avec quelques maisons de bonne réputation…
+
+Le vieux pendant ce temps  
+Du danger inconscient  
+Préparait des cadeaux  
+Pour tous ces beaux…  
+Cet article a été posté le Dimanche 4 décembre 2016

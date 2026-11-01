@@ -1,0 +1,51 @@
+---
+title: "Radotage: Illuminé?"
+date: "2025-04-26"
+datetime: "2025-04-26T08:06:14+00:00"
+auteur: "010446g"
+categories: ["Non classé"]
+source: "http://radotage010446g.unblog.fr/2025/04/26/radotage-illumine/"
+slug: "2025-04-26-radotage-illumine"
+---
+
+# Radotage: Illuminé?
+
+### Illuminé?
+
+Certains me disent illuminé… ou que j’ai perdu la tête…
+
+Mon arrière grand-père avait une sœur, mariée avec un habitant du village voisin.  
+De cette union était né un garçon qui devenu grand suscitait bien des interrogations : était-il fou , possédé, ou un génie ? Ses actes inquiétants avaient fini par amener son internement à St Robert asile de fous dont il disparut un jour sans que plus personne n’entende parler de lui…
+
+Cette histoire QUE JE RADOTE parle-t-elle de lui ou est-ce le fruit de mon imagination ?
+
+Branle-bas de combat au village : la maison, la riche maison CHAPEUT semble être, depuis la mort du père, le repaire du MALIN.  
+C’est à la veillée funèbre que les voisins ont entendu pour la première fois, dans le grenier, des bruits insolites. Certains d’entendre l’âme du mort se plaindre, ils se sont mis à genoux et, toute la nuit, de prière des morts en chapelet et en litanie, ils ont tenté de conjurer le mauvais sort.  
+La journée laissait peu de temps aux supputations : traire les vaches dont la mamelle tirait, les nourrir, les mener au FURON pour s’abreuver, rencontrer le curé, le fossoyeur, pour ouvrir la tombe…non décidément, pas question d’écouter !  
+Mais le soir revenu, après que tout le village ait psalmodié la prière du soir suivie des litanies, le groupe de la veille a nettement entendu comme un bruit de roulement au-dessus de sa tête.  
+Ils étaient cinq : il y avait le gros JULES qui n’avait peur de rien, le MARIUS… qui en avait vu d’autres ,  
+la MARIE , toute en pleurs de son frais veuvage, le PAUL , encore jeune, mais bien courageux et enfin,  
+la JULIE que la mort de son père avait bien attristée. Ils se sont regardés, les uns, les autres…ont écouté…il y avait bien quelque chose qui tournait là-haut !  
+La MARIE s’est mise à réciter son chapelet aussi haut qu’elle pouvait…mais, entre deux ave, quelqu’un, là-haut se manifestait…Le gros JULES a pris sa lanterne. Il avait tenu tête à dix AUTRICHIENS, tout seul, à AUSTERLITZ…il allait savoir !…Le voilà à grimper l’escalier du grenier. A peine avait-il posé sa main sur la poignée de la porte, qu’il est tombé au bas de l’escalier, comme s’il avait reçu un coup de poing au ventre…MORT ! !  
+Ca faisait deux morts dans la maison…et on entendait toujours, là-haut, ces bruits bizarres…  
+Le médecin, mandé dans la nuit, ne pouvait que constater le décès…Jugez de l’état d’esprit des autres ! !Ils avaient la tête à l’envers comme ce jeune du pays qu’on avait été obligé d’enfermer tellement « il était pas d’aplomb »  
+La MARIE pleurait à chaudes larmes : le JULES, elle avait bien souvent tassé la paille de la grange avec lui quand son mari traînait à la foire…et elle comptait bien sur lui pour calmer ses feux de ventre . Le MARIUS était blanc comme un linceul, et, en serrant les dents, il avait écrasé le tuyau de sa pipe.  
+La JULIE était blottie, prostrée dans un coin de la chambre pendant que le PAUL essayait de parler tour à tour à l’un ou à l’autre des morts en espérant toujours une réponse.  
+Le curé, un jeune curé, pas bon à grand-chose à part caresser les cheveux de  
+la JULIE pour la rassurer n’avait rien trouvé de mieux à proposer que de dire une messe pour le repos des défunts.  
+Après le double enterrement, les choses n’allaient toujours pas mieux : toujours ces bruits, avec parfois des gémissements…pas à dire !…  
+LA MAISON ETAIT HANTEE ! !  
+La MARIE, alors, est allée supplier le curé de venir bénir le grenier pour conjurer le DIABLE…mais le prêtre, tout frais émoulu du séminaire, ne croyait pas aux manifestations physiques du MALIN.  
+« Un curé qui croit pas au DIABLE, croit pas au BON DIEU ! » a déclaré le MAIRE quand il a appris la chose…Et il a envoyé le garde-champêtre à l’évêché pour rapporter cette chose épouvantable : LE CURE DU VILLAGE ETAIT UN MAUVAIS CHRETIEN : on ne pouvait même pas compter sur lui pour combattre SATAN ! !  
+L’évêque, comprenant le problème, demanda à PORET, curé de SASSENAGE, un vieux curé, né au village, de venir rassurer la population…D’autant plus que l’idiot enfermé avait disparu de l’asile.  
+PORET, donc a attelé son cheval à la jardinière pour se rendre sur place.  
+TOUT LE VILLAGE L’ATTENDAIT ! ! !  
+« Si SATAN est là-haut,  
+la CROIX le fera partir ! »  
+Et le voilà en tête d’une procession portant haut une croix dont le bois était gros comme le bras d’un bûcheron : en cas d’attaque, c’était une arme redoutable !En arrivant devant la maison, ils ont tous entendu le roulement sinistre. Le vieux curé est monté le premier jusqu’au seuil du grenier. C’est à ce moment-là qu’un éclair de foudre a jailli suivi d’un hurlement inhumain. Dans un désordre indescriptible de jambes et de bras, tout le monde s’est trouvé entassé au bas de l’escalier. Le vieux curé, le premier, ayant retrouvé ses jambes de jeunesse courait à toute vitesse dans le chemin en pente loin de cette maudite maison. Il paraît que le PAUL étiré sur  
+la JULIE a mis bien longtemps à se relever…mais ça, ce sont les méchancetés des commères…  
+La porte de la maison a été fermée en tremblant. C’est tout juste si on a osé détacher les vaches en priant DIEU qu’elles soyent pas ensorcelées avant de tous se sauver….
+
+Quand, cent ans plus tard, la maison a été rachetée par un étranger, on a trouvé dans le grenier, un squelette humain, à côté d’un drôle d’engin avec une manivelle qui, quand on la faisait tourner produisait cette chose qu’on commençait à bien connaître et qu’on appelle ELECTRICITE.
+
+Cet article a été posté le Lundi 14 février 2011

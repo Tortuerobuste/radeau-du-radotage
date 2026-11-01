@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32">
+  <rect width="32" height="32" rx="7" fill="#faf6ef"/>
+  <!-- le radeau : quatre rondins et un mât -->
+  <path d="M7 17h18" stroke="#8a4b2a" stroke-width="2.6" stroke-linecap="round"/>
+  <path d="M16 16V7" stroke="#8a4b2a" stroke-width="2" stroke-linecap="round"/>
+  <path d="M16.9 8.2h5.4l-2.2 2.6 2.2 2.6h-5.4z" fill="#8a4b2a"/>
+  <!-- l'eau -->
+  <path d="M4 22q3-2.2 6 0t6 0 6 0 6 0M4 26q3-2.2 6 0t6 0 6 0 6 0"
+        stroke="#8a4b2a" stroke-width="1.8" fill="none"
+        stroke-linecap="round" opacity=".55"/>
+</svg>

@@ -1,0 +1,33 @@
+---
+title: "crimes à Velebeau"
+date: "2011-05-07"
+datetime: "2011-05-07T08:13:27+00:00"
+auteur: "010446g"
+categories: ["Non classé"]
+source: "http://radotage010446g.unblog.fr/2011/05/07/crimes-a-velebeau-2/"
+slug: "2011-05-07-crimes-a-velebeau-2"
+---
+
+# crimes à Velebeau
+
+Martin est commandant de brigade à Velebeau ….
+
+Il était trois heures du matin, ce vendredi 28 octobre quand le téléphone se mit à sonner.
+
+Il avait toujours refusé de basculer les urgences sur le 15 espèrant ainsi  
+tomber sur « le coup de sa carrière ». Une voix entrecoupée de hocquets lui signalait la présence d’un cadavre en travers de la route entre les MONTGETS et le PONT D’ANE.
+
+En trois minutes, il avait endossé son uniforme et il se rendait sur les lieux. Il s’agissait d’un homme, si l’on en jugeait par le port d’une cravate sur une chemise rouge de sang.La tête avait été mise en bouillie de même que le bas-ventre qui ne portait aucun vêtement. Ainsi disposé, on aurait pu imaginer qu’un énorme engin lui avait roulé dessus…mais où donc se trouvait son pantalon ?..Un exhibitionniste écrasé par la personne qu’il aurait voulu provoquer ? Un accident suivi de délit de fuite ? Peu de sang autour du cadavre…Il avait donc été jeté là…
+
+Retrouvant des gestes oubliés depuis quinze ans, Martin fit convoquer le médecin légiste, prit une multitude de photos avant de faire emporter le cadavre à la morgue. Il fit établir une barrière pour détourner les véhicules afin de sauvegarder les indices qui pouvaient se trouver sur les lieux. Le jour levé, il put enfin s’adonner aux investigations . Il se sentait une âme de chien truffier.
+
+Pas de traces de roues ensanglantées sur la chaussée.Le cadavre avait bien été transporté ! …La fouille des fossés et des buissons alentour ne lui permit pas de trouver le pantalon de cet individu. A la morgue, on n’avait trouvé aucun papier sur le mort, par ailleurs quasi impossible à identifier. L’affaire paraissait peu banale à Martin, elle lui parut encore plus obscure quand il apprit que le visage avait été savamment écrasé à l’aide d’un instrument contondant et que le bas-ventre avait été émasculé avant de subir le même sort.
+
+Identifier la victime ne lui paraissait pas encore trop difficile : tout le monde connaissant tout le monde, chacun surveillant chacun, son « réseau » allait pouvoir montrer son efficacité.
+
+Il commença donc méthodiquement une tournée des quatre communes…Il eut beau essayer de savoir qui n’avait pas paru aux yeux de ses voisins, personne ne manquait à l’appel. Aux bars, on lui assura n’avoir vu aucun homme inconnu, de même à la pompe à essence, et également le vieil Eugène toujours posté derrière sa fenêtre en bordure de la route n’avait vu aucun étranger.
+
+Le lendemain, des pêcheurs vinrent signaler la présence au fond du gouffre Repet d’une voiture.Le gouffre Repet était situé dans un virage en épingle à cheveux, et plus d’un avait testé ce qu’il en coûte de le franchir trop vite.L’eau du torrent à cet endroit faisait un tourbillon et pour les quelques suicides décidés à cet endroit, le ruisseau n’avait rendu le corps que plusieurs mois plus tard. Une grue mandée retira de l’eau une Volvo noire immatriculée dans le département. Sur le siège arrière défoncé se trouvait un pantalon tout maculé de boues indéchiffrables. La portière arrière droite avait été réduite en lambeaux de ferraille, sur le plancher on trouva des bottes de cheval, une longe,et une cravache,rien d’autre.
+
+Impossible, un samedi, d’identifier le propriétaire. En tout état de cause, le véhicule n’était pas du canton.  
+Qui avait pu venir assassiner cet homme dans le fief de Martin ? Pour quelles raisons ? Martin tournait en rond et se creusait la tête. Une deuxième fois, il repartit aux nouvelles : y avait-il quelque chose de nouveau dans le pays ?

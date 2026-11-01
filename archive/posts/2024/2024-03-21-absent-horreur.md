@@ -1,0 +1,44 @@
+---
+title: "Absent!!! horreur!"
+date: "2024-03-21"
+datetime: "2024-03-21T19:49:01+00:00"
+auteur: "010446g"
+categories: ["Non classé"]
+source: "http://radotage010446g.unblog.fr/2024/03/21/absent-horreur/"
+slug: "2024-03-21-absent-horreur"
+---
+
+# Absent!!! horreur!
+
+* C’est difficile à mesurer mais certains enseignants *  
+*se font parfois porter pâle facilement. *  
+*On peut comprendre qu’une enseignante prenne des jours*  
+* quand elle a un enfant malade et jeune. *  
+*Mais lorsqu’il a 13 ou 14 ans, il devrait pouvoir se garder seul *  
+*s’il a une cheville endolorie.*  
+#### Radotage:
+
+#### [relations inspecteur/inspecté](http://radotage010446g.unblog.fr/2011/05/16/relations-inspecteurinspecte/)
+
+Alors que j’avais demandé un poste de titulaire mobile, écoeuré par trop de choses, Un exemple de relation inspecteur/inspecté
+
+J’arrivai un jour pour un remplacement dans une classe dont le maître, en CM2 avait prévu de faire des contrôles… Bien entendu, il n’était pas question de refuser de les piloter…
+
+Mais voilà que, la veille de la fin desdits contrôles, l’inspecteur nous fait parvenir une série « d’évaluations » à pratiquer impérativement le lendemain
+
+Evaluations sur contrôles !! un peu beaucoup demander aux élèves déjà pas très heureux d’avoir perdu leur maître vénéré !! j’osai donc émettre une objection… que le « faisant fonction de directeur  » s’empressa de transmettre : « oui, mais pas coup sur coup… dans quelques jours» j’étais d’autant plus mal luné que mon pied malencontreusement placé en face d’un objet dur me faisait très mal…
+
+« Vous devez faire ces évaluations demain »  
+–désolé ! je ne les ferai pas demain !  
+–C’est ce que nous verrons ! »  
+En raccrochant le téléphone, je dis aux collègues SANS PLUS que je serais absent le lendemain…jour que je passai aux urgences pour radios et bandages.
+
+Le surlendemain, mon inspecteur était là, sûr de me coincer, enfin !  
+Sur le bureau du directeur se trouvait, outre mon certificat de visite à l’hôpital, un rapport détaillé sur les raisons qui faisaient que je ne pensais pas pouvoir obtempérer à la demande en respectant les enfants, déposé la veille au soir.
+
+Il prit de très haut mon arrivée à l’heure moins cinq »Je vous attendais ! venez avec moi dans le bureau du directeur »  
+Je le suis, il commence à se lancer dans une diatribe sur ce que je risque par mon comportement…  
+Calmement, j’ai posé ma chaussure, déroulé le bandage et posé mon pied sous son nez.  
+Sa surprise fut totale, il est vrai que le violacé était impressionnant . Je profitai de l’occasion pour lui faire le décompte total de mes absences 22 jours en trente ans et pour lui demander de lire mon rapport.
+
+Mon jeune collègue « faisant fonction de directeur » parla longtemps du visage de son supérieur venant de se confronter à une réalité qu’il ne pouvait pas imaginer : tous les enseignants sont des tire-au-cul c’est bien connu ! il suffit d’arriver au bon moment pour les confondre ?

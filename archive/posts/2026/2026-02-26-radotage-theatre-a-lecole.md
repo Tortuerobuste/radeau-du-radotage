@@ -1,0 +1,22 @@
+---
+title: "Radotage: théâtre à l’école"
+date: "2026-02-26"
+datetime: "2026-02-26T14:59:00+00:00"
+auteur: "010446g"
+categories: ["Non classé"]
+source: "http://radotage010446g.unblog.fr/2026/02/26/radotage-theatre-a-lecole/"
+slug: "2026-02-26-radotage-theatre-a-lecole"
+---
+
+# Radotage: théâtre à l’école
+
+###
+
+Le théâtre  
+Dans certaines écoles, j’avais réussi à persuader plusieurs classes d’avoir leur moment « d’expression orale » sous la forme de « théâtre » imaginé par les enfants sans trop( ?) le concours des maîtres. Une heure par quinzaine était consacrée à la présentation des créations…
+
+J’ai entendu quelles étaient les façons de travailler de « PAPY » le détecteur de Djamel Debouze … j’ai cru y voir des similitudes.
+
+Alors, oui ! les textes d’enfants étaient du niveau de langage des élèves, oui, les théoriciens d’une certaine élite, ceux qui croient que ne sont dignes d’être présentés QUE les textes BENIS PAR LES PUISSANTS D’AUTREFOIS, ces gens ne pouvaient admettre que des enfants pour beaucoup d’origine étrangère, aient besoin d’utiliser leurs mots et de les valoriser pour avancer vers d’autres termes, plus élaborés, qui forment le socle de la culture. Tant pis pour leur étroitesse d’esprit !!
+
+Cet article a été posté le Dimanche 17 avril 2011

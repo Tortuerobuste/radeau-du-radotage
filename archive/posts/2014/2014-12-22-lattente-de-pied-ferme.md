@@ -1,0 +1,26 @@
+---
+title: "L’attente de pied ferme"
+date: "2014-12-22"
+datetime: "2014-12-22T23:07:28+00:00"
+auteur: "010446g"
+categories: ["Non classé"]
+source: "http://radotage010446g.unblog.fr/2014/12/23/lattente-de-pied-ferme/"
+slug: "2014-12-22-lattente-de-pied-ferme"
+---
+
+# L’attente de pied ferme
+
+La nuit était tombée, Marie-Geneviève, toujours dans sa rancœur, avait consciencieusement révisé tous les reproches qu’elle ressassait à l’égard de son mari, depuis leur mariage. Il allait rentrer comme la dernière fois, et ramper à ses pieds pour se faire pardonner.
+
+Cette fois, ce ne serait pas aussi simple : il faudrait qu’il finisse par accepter d’être présent pour soutenir toutes ses œuvres.
+
+L’obliger à avertir ses parents qu’ils avaient « un empêchement » sans même oser leur dire ce qui s’était passé, quelle honte pour elle !
+
+Pour se calmer, elle feuilletait nerveusement une revue de papier glacé sans arriver totalement à lire autre chose que les titres. Il allait arriver «  la queue entre les jambes » … Plus il tarderait, plus elle serait sévère…
+
+L’heure tournait, la nuit printanière commençait à étendre ses ombres. Il n’était pas encore là ? Une petite incertitude se glissa dans l’esprit de Marie-Geneviève… Et s’il était allé se calmer au bistrot comme il le faisait au temps de ses campagnes ? Elle le verrait alors rentrer saoul, peut-être ? Quelle horreur ! Elle avait entendu parler de ces comportements que pouvaient avoir des personnes ivres… Une légère angoisse se fit jour en elle…
+
+Son feuilleton télé lui paraissait fade, elle ne réussissait pas à le suivre.  
+23 h… L’explication aurait lieu demain, il ne perdait rien pour attendre ! Marie-Geneviève se démaquilla, passa une nuisette qu’elle ne laisserait pas froisser ce soir, et se glissa dans le lit conjugal, lequel lui parut particulièrement large et éteignit la lumière.
+
+Trois heures sonnaient à l’horloge du salon. Marie-Geneviève réalisa que la place à son côté était toujours vide… Serait-il rentré, et, n’osant se présenter dans la chambre conjugale, dormirait-il sur le canapé du salon ? Elle se rendit à la cuisine pour boire un verre d’eau : elle avait la bouche sèche (cela lui permettait, mais elle ne se le serait jamais avoué, de vérifier son hypothèse)… Personne ! L’inquiétude commença à partager son espace avec la colère : cela n’était jamais arrivé… Il voulait jouer à la mauvaise tête ? Elle l’attendrait de pied ferme.

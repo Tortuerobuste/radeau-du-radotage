@@ -1,0 +1,25 @@
+---
+title: "Radotage: abstention"
+date: "2022-06-19"
+datetime: "2022-06-19T08:49:30+00:00"
+auteur: "010446g"
+categories: ["Non classé"]
+source: "http://radotage010446g.unblog.fr/2022/06/19/radotage-abstention/"
+slug: "2022-06-19-radotage-abstention"
+---
+
+# Radotage: abstention
+
+Grâce à la dérive permanente vers une infantilisation totale des gens du peuple, la France arrive à un taux d’abstention qui décrédibilise tous les politiques…
+
+A l’école, on a « oublié » toute action qui viserait à apprendre à monter ensemble des projets et à élire ceux qui se chargent de les coordonner(l’obligation pour le moindre projet de présenter des dossiers dignes de l’URSS aux pires époques).
+
+Au collège, au lycée, on a bien instauré les « délégués de classe » mais leurs pouvoirs sont encore plus restreints que ceux des délégués syndicaux aux conseils d’administration des entreprises… Démonstration de l’inanité d’élection de personnes qui n’ont aucun pouvoir… Et démobilisation de ceux qui aimeraient prendre des responsabilités.
+
+Dans les associations de jeunesse, on s’est bien vite débarrassé  des représentants jeunes, en donnant le maximum de pouvoirs à des porteurs de « diplômes d’Etat » ce qui transforme les jeunes en *consommateurs de distractions * au lieu d’être des acteurs responsables.
+
+Après cette formidable démoralisation, la décrédibilisation de l’action de voter, il ne reste plus que le coup de bâton pour l’âne qui ne veut plus avancer !
+
+Mais alors… Proportionnelle intégrale  
+Mais alors… Que le résultat du vote s’impose aux gouvernements (vous avez entendu parler de certain référendum ?)  
+Mais alors… Que le mandat donné soit clair et limité . Que le peuple puisse destituer les élus qui ne tiennent pas leurs engagements.

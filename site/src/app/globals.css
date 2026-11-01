@@ -1,0 +1,128 @@
+@import "tailwindcss";
+
+/* Le thème sombre suit le système, sauf si on l'a choisi à la main. */
+@custom-variant dark (&:where([data-theme="dark"], [data-theme="dark"] *));
+
+:root {
+  --paper: #faf6ef; /* le fond, un papier crème */
+  --paper-haut: #fffdf9; /* cartes et zones en relief */
+  --encre: #1f1b16; /* le texte courant, très contrasté */
+  --encre-douce: #655c4d; /* dates, mentions — reste lisible */
+  --trait: #e6dccb; /* filets et séparations */
+  --accent: #8a4b2a; /* terre de Sienne, la couleur du radeau */
+  --accent-doux: #f0e4d8;
+  --focus: #8a4b2a;
+}
+
+:root:not([data-theme="light"]) {
+  @media (prefers-color-scheme: dark) {
+    --paper: #15130f;
+    --paper-haut: #1d1a15;
+    --encre: #ece5d8;
+    --encre-douce: #a79d8d;
+    --trait: #2e2922;
+    --accent: #d8946a;
+    --accent-doux: #2a211a;
+    --focus: #d8946a;
+  }
+}
+
+:root[data-theme="dark"] {
+  --paper: #15130f;
+  --paper-haut: #1d1a15;
+  --encre: #ece5d8;
+  --encre-douce: #a79d8d;
+  --trait: #2e2922;
+  --accent: #d8946a;
+  --accent-doux: #2a211a;
+  --focus: #d8946a;
+}
+
+@theme inline {
+  --color-paper: var(--paper);
+  --color-paper-haut: var(--paper-haut);
+  --color-encre: var(--encre);
+  --color-encre-douce: var(--encre-douce);
+  --color-trait: var(--trait);
+  --color-accent: var(--accent);
+  --color-accent-doux: var(--accent-doux);
+
+  --font-serif: var(--font-spectral), Georgia, "Times New Roman", serif;
+  --font-sans: var(--font-inter), system-ui, sans-serif;
+}
+
+html {
+  color-scheme: light dark;
+  -webkit-text-size-adjust: 100%;
+}
+
+/* L'icône du bouton de thème suit exactement les mêmes règles que les
+   couleurs ci-dessus : lune quand la page est claire, soleil quand elle
+   est sombre. En CSS, donc juste dès le premier rendu, sans JavaScript. */
+.icone-theme-sombre {
+  display: none;
+}
+
+:root:not([data-theme="light"]) {
+  @media (prefers-color-scheme: dark) {
+    .icone-theme-clair {
+      display: none;
+    }
+    .icone-theme-sombre {
+      display: block;
+    }
+  }
+}
+
+:root[data-theme="dark"] {
+  .icone-theme-clair {
+    display: none;
+  }
+  .icone-theme-sombre {
+    display: block;
+  }
+}
+
+body {
+  background: var(--paper);
+  color: var(--encre);
+  font-family: var(--font-serif);
+  /* Un peu plus grand que l'usage : il a 84 ans, et ses lecteurs aussi. */
+  font-size: 1.0625rem;
+  line-height: 1.7;
+  -webkit-font-smoothing: antialiased;
+}
+
+/* Un anneau de focus visible partout — navigation au clavier. */
+:focus-visible {
+  outline: 2px solid var(--focus);
+  outline-offset: 3px;
+  border-radius: 3px;
+}
+
+/* Le cœur du site : un poème, dont chaque retour à la ligne compte. */
+.vers {
+  white-space: pre-wrap;
+  overflow-wrap: break-word;
+  text-wrap: pretty;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+}
+
+@media print {
+  .sans-impression {
+    display: none !important;
+  }
+  body {
+    background: #fff;
+    color: #000;
+  }
+}

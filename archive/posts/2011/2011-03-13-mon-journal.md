@@ -1,0 +1,34 @@
+---
+title: "Mon journal"
+date: "2011-03-13"
+datetime: "2011-03-13T07:28:40+00:00"
+auteur: "010446g"
+categories: ["Non classé"]
+source: "http://radotage010446g.unblog.fr/2011/03/13/mon-journal/"
+slug: "2011-03-13-mon-journal"
+---
+
+# Mon journal
+
+Ce matin, en ouvrant mon journal, comme chaque matin depuis quelques jours, j’ai cherché dans les faits-divers … Un accrochage par-ci, un cambriolage par-là, une voiture brûlée, mais, ce que je cherche…rien !  
+Pourtant, le spectaculaire accident qui a bouleversé le quartier méritait bien un petit entrefilet : pensez donc ! Un grumier de quarante tonnes qui chavire sur une maison, la route bloquée pendant près de dix heures, des personnes âgées handicapées à venir chercher en marche arrière depuis leur maison afin de les ramener chez elles après avoir franchi l’obstacle malgré leurs difficultés à se mouvoir !  
+N’y tenant plus, je vais voir mon voisin, celui qui a eu l’honneur de recevoir cet hôte monstrueux et imprévu.  
+Amédée, est un vieil homme à barbe blanche qui ne croit plus guère en l’humanité. Il a compris depuis longtemps que l’amour d’autrui que l’on proclame dans les églises n’est que le cri d’un instant, dans l’excitation du moment, et parce qu’on ne sait jamais, mais qu’ensuite chacun fait à sa guise, quitte à se confesser une fois l’an.  
+Lui n’en est pas au premier grumier couché dans sa cour, en son absence, « on »  
+s’est permis souvent de violer sa propriété avec des engins de toutes sortes. Qui ? X bien entendu !  
+Amédée était en train de couper des brindilles à largeur de barbecue à l’aide d’une serpe.  
+« Bonjour ! monsieur Amédée ! avez-vous vu ? le journal ne parle pas de l’accident d’avant avant hier ! pourtant, on lui a bien envoyé des photos assez parlantes…. Je suis surpris ! »  
+Amédée me regarde, ses petits yeux gris se font interrogateurs comme si je plaisantais. Il se tait , coupe une nouvelle branche. J’insiste « Vous trouvez ça normal ? pourtant, d’habitude, « l’Allobroge Déchaîné » ne manque pas de raconter les problèmes des habitants »  
+Amédée me regarde de nouveau, frappe de nouveau un morceau de bois… Je commence à me sentir mal à l’aise. Après un long silence, il se décide :  
+« Je suis surpris de votre étonnement ! Que s’est-il passé quand vous avez téléphoné à l’adjoint au maire chargé des routes, celui qui retarde le plus possible la construction d’un tracé qui ne serait pas dangereux ? Il vous a dit qu’il était artisan et qu’il avait autre chose à faire, d’appeler les gendarmes si vous vouliez…  
+_…  
+_ Ah ! de mon temps !… Je me souviens d’avoir bien connu un adjoint au maire, c’est vieux ! Pensez donc !J’étais enfant ! A l’époque, c’était une fonction bénévole, pas comme aujourd’hui où les édiles reçoivent des « indemnités » telles qu’un bénéficiaire des restos du cœur ne serait plus admis s’il avait même seulement cela pour vivre. Ils faisaient leur travail quoi qu’il en coûte! Aujourd’hui, vous avez vu : on délègue à des fonctionnaires, on vous envoie un cantonnier, ou un policier municipal.  
+Pourquoi voudriez-vous que « l’Allobroge Déchaîné » publie un article sur l’accident du grumier ? N’était-ce point le bois de la commune ? Ce n’était pas la première fois. Relater l’événement, ce serait laisser apparaître que les atermoiements de la commune pour dévier la route ont des conséquences. Cela pourrait amener à réfléchir. Cela pourrait coûter des électeurs au maire.  
+_ Mais, rétorquai-je, le journal raconte bien des incidents moins importants et qui impliquent des gens.  
+_ Des gens, bien entendu ! Des pauvres qui ne peuvent se défendre ! Avez-vous lu parfois les méfaits des puissants ? Pensez-vous que ces gens sont des saints ?  
+Quand on envoie un article à « l’Allobroge Déchaîné », le rédacteur en chef contacte la mairie pour avoir un son de cloche officiel, vous comprenez la suite !  
+_ Voyons ! monsieur Amédée ! nous sommes dans une démocratie ! la presse est libre ! « L’Allobroge Déchaîné », ce n’est pas «  
+La Pravda » ! » Vous exagérez !  
+_ … »  
+Deux branches l’une après l’autre, avec un soupçon de nervosité rejoignent le tas de bois. Amédée ne dira plus rien.  
+En revenant chez moi, j’ai ouvert de nouveau mon journal, je l’ai regardé d’un autre œil, j’ai parcouru de nouveau la rubrique des faits divers. Ma cheminée brûlait. J’ai compris en la regardant à quoi servait vraiment mon journal quotidien : à l’allumer !

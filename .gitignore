@@ -1,0 +1,16 @@
+# Dépendances et build : se régénèrent avec npm install / npm run build
+node_modules/
+.next/
+out/
+
+# Clés Supabase — ne doivent jamais partir sur GitHub
+.env
+.env*.local
+
+# Journaux de la récolte
+*.log
+
+# Système
+.DS_Store
+Thumbs.db
+desktop.ini

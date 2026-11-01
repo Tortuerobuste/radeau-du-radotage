@@ -1,0 +1,47 @@
+---
+title: "Rat dotage"
+date: "2022-12-15"
+datetime: "2022-12-15T13:14:58+00:00"
+auteur: "010446g"
+categories: ["Non classé"]
+source: "http://radotage010446g.unblog.fr/2022/12/15/rat-dotage/"
+slug: "2022-12-15-rat-dotage"
+---
+
+# Rat dotage
+
+### L’aventure de Mehdi
+
+MEHDI était un petit garçon qui n’avait jamais peur de rien.  
+Chaque fois que sa maman lui faisait une recommandation, il se hâtait de la transgresser.  
+En plus, il adorait faire gronder ses sœurs chaque fois qu’elles faisaient une sottise.  
+Ce jour-là était la journée des contes.  
+Sa maman l’avait emmené à la bibliothèque où elle avait rendez-vous avec ses amies conteuses. Mehdi est bien resté un moment avec sa maman, mais, rapidement, l’envie de jouer s’est emparée de lui…La bibliothèque regorgeait de recoins où se cacher pour faire des farces…Maman écoutait une belle histoire, elle était très attentive…Mehdi se glisse dans l’escalier…Va-t-il sortir dans la rue ? C’est trop dangereux : la dernière fois un policier municipal l’a pris par la main et l’a entrainé jusqu’à un bureau où il a été obligé d’attendre que sa maman vienne le rechercher…Se cacher sous l’escalier ! Voilà l’idée !  
+Mehdi se glisse derrière une poubelle….sa maman lui avait bien recommandé de ne pas jouer vers les poubelles, ce n’est pas propre, mais des poubelles de bibliothèque, ça ne contient que de vieux papiers.  
+Mehdi regarde : on peut le voir !  
+Il s’enfonce derrière la deuxième, c’est trop étroit…il remue un peu pour être plus à l’aise..CLAC !  
+Une porte s’ouvre derrière lui. Un escalier ! Quel beau terrain d’aventures ! Mehdi n’hésite qu’un instant.  
+Il descend une marche…regarde…rien ne bouge ! deux marches…trois…quatre…Alors d’un seul élan, Mehdi descend jusqu’au bas de l’escalier. A l’instant où son pied touche la dernière marche, CLAC ! ! ! Mehdi est enfermé dans le noir !  
+Mais Mehdi n’est pas de nature à se laisser impressionner. Il remonte l’escalier à quatre pattes et cherche, cherche vainement la poignée de la porte : Il sent bien une grosse serrure, Mehdi la sent bien sous sa main, mais pas de trace de poignée. Il serre de toutes ses forces cette grosse boite qui doit être la serrure, il s’accroche, mais il s’arrête bientôt : ses ongles cassés saignent et la porte reste fermée. De ses petits poings, Mehdi frappe très fort contre la porte, il crie, mais qui va venir le chercher là ?  
+En se retournant, Mehdi voit une petite lumière, comme un œil qui le regarde. Une énorme voix tonne :  
+« JE SUIS LE RAT-DIEU, BIENVENUE CHEZ NOUS ! »  
+Mehdi voit alors une forme, une forme arrondie avec une lumière brillante à la place de l’œil… Cette forme bouge…Elle s’avance , s’avance vers lui en dansant. C’est un énorme rat qui murmure des mots en cascade et qui vient lui serrer la gorge si fort que Mehdi croit qu’il va mourir…Alors Mehdi se débat frappe de toutes ses forces, ouvre grand ses yeux pour fusiller du regard ce rat qui vient l’empêcher de respirer. Vaincu, le RAT-PEUR, va se blottir dans un coin. Mehdi n’a peur de rien !  
+Au fur et à mesure que Mehdi le regarde, le RAT-PEUR diminue jusqu’à devenir minuscule ? Et comme par magie, la cave s’illumine.  
+Mehdi est au palais des rats de bibliothèque.  
+Il voit d’abord une salle où des rats à longs nez sont réunis gravement autour d’un minuscule bout de papier : ce sont les RATS-CHERCHEURS.  
+Plus loin, planté dans son sol comme une mauvaise herbe et vociférant, il voit le RAT-CISTE.Le palais est agencé comme une ville : une multitude de petites maisons au toit arrondi se regroupent le long de rues : Rue des RATS-HISTORIENS à l’opposé de la rue des RATS –NEGATIONNISTES. …Rue des rêveurs sur une butte en forme de nuage…Rue des poètes toute couverte de fleurs…Rue des érudits, rats un peu difformes dont la moitié droite de la  
+tête est différente de la moitié gauche. Au fond, se trouve une piscine, c’est le domaine des RATS-BAINS. Mehdi adore faire des ronds dans l’eau, il se saisit d’un caillou et veut le jeter …il sent une morsure terrible : le RAT-PIERRE n’aime pas l’eau : il coule aussitôt ! Mehdi s’attarde un peu devant une maison bizarre : couverte de tiroirs : c’est la demeure du RAT-COMMODE. De la musique filtre par la fenêtre du RAT-COR.A l’école, Mehdi voit un rat à genoux sur un morceau de bois fendu : c’est le RAT-COLLE ! dans un coin un jouet traîne : le RAT-TISSE Pour apaiser sa faim, Mehdi tend la main vers un fruit qui pend à une branche, « CANNIBALE ! » crie le RAT-BAIE en roulant le plus loin possible. Dans la rue des artisans, Mehdi avance lentement en regardant travailler le RAT-VISSEUR en train de fermer une prison dont le RAT-BACHEUR ne cesse de suggérer qu’on doit en couvrir la cour afin d’éviter les évasions par hélicoptère.  
+« Je m’occuperai des évadés ! » proclame le RAT-BATTEUR.  
+« Qui es-tu ? nous ne te connaissons pas , viens boire un coup avec nous ! »  
+lui disent ensemble le RAT-VIN et le RAT-THE  
+« Je suis un enfant perdu dit Mehdi, j’ai voulu explorer la cave de la bibliothèque et la porte s’est fermée je n’ai pas pu ressortir… Pouvez-vous m’aider ?  
+–Si tu es là, c’est que tu es un RAT ! Quel genre de rat es-tu ?  
+–Je ne suis pas un rat, je suis un enfant ! N’avez-vous pas compris ce que je vous ai dit s’énerve Mehdi.  
+–Nul ne peut être ici s’il n’est pas un rat !…Réfléchis ! »  
+C’est alors que Mehdi s’est rappelé qu’il répète toujours à papa les bêtises de ses sœurs, IL EST UN RAT-PORTEUR !  
+« Je ne veux plus être un rat ! Je veux sortir ! JE VEUX SORTIR !JE VEUX SORTIR !JE VEUX SORTIR ! ! !  
+–Tu ne pourras sortir qu’en te rendant chez le RAT-CHAT… MAIS…prends garde ! il pourrait bien te manger !Mehdi, la mort dans l’âme va frapper chez le RAT-CHAT, mais au moment où il se prépare à pousser le heurtoir, il reçoit  
+trois grands coups de poing sur l’épaule, il se retourne, et voit le seul rat qui pouvait l’aider : le RAT-CLE ! qui l’entraîne jusqu’au sommet de l’escalier et lui ouvre la porte à l’instant où maman commençait à appeler : « MEHDI ? OU ES-TU ? »  
+Mehdi ne racontera pas son aventure à maman, il ne racontera plus à personne les bêtises de ses sœurs, ni les siennes non plus : cela ne lui plairait pas du tout de se retrouver au pays des rats
+
+Cet article a été posté le Lundi 7 mars 2011

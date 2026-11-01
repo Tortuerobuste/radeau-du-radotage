@@ -1,0 +1,20 @@
+{
+ "a-propos": {
+  "slug": "a-propos",
+  "url": "http://radotage010446g.unblog.fr/a-propos/",
+  "titre": "A propos «  le radeau du radotage",
+  "html": "<p>Voila un exemple de page personnalisée pour votre blog. Les pages, à la différence des articles, ne s&rsquo;inscrivent pas dans la chronologie du blog. Vous pouvez les utiliser pour donner des informations sur vous, insérer un formulaire de contact, ou une présentation de votre blog. Les pages peuvent également etre hiérarchisées en sous-pages.</p>"
+ },
+ "qui-se-ressemble": {
+  "slug": "qui-se-ressemble",
+  "url": "http://radotage010446g.unblog.fr/qui-se-ressemble/",
+  "titre": "Qui se ressemble… «  le radeau du radotage",
+  "html": "<p><span style=\"color: #008000\">Ils s&rsquo;étaient il y a peu</span></p>\n<p><span style=\"color: #008000\">Mis côte à côte sur affiches</span></p>\n<p><span style=\"color: #008000\">Pour défendre de leur mieux</span></p>\n<p><span style=\"color: #008000\">Les affaires des plus riches .</span></p>\n<p><span style=\"color: #800080\">Le premier a insulté</span></p>\n<p><span style=\"color: #800080\">Sur toutes les voies du pays</span></p>\n<p><span style=\"color: #800080\">Un héros partout vénéré</span></p>\n<p><span style=\"color: #800080\">Pour penser ce qu&rsquo;il avait dit.</span></p>\n<p><span style=\"color: #0000ff\">Le second aussi violent</span></p>\n<p><span style=\"color: #0000ff\">Avec un casque de moto</span></p>\n<p><span style=\"color: #0000ff\">A expédié un opposant</span></p>\n<p><span style=\"color: #0000ff\">Directement à l&rsquo;hosto&#8230;</span></p>\n<p><span style=\"color: #ff6600\">Qui se ressemble</span></p>\n<p><span style=\"color: #ff6600\">S&rsquo;assemble</span></p>\n<p><span style=\"color: #ff6600\">Ainsi dit le vieil adage</span></p>\n<p><span style=\"color: #cc99ff\">Mais ces gens tout verts de rage,</span></p>\n<p><span style=\"color: #cc99ff\">Pour les supporter cinq ans</span></p>\n<p><span style=\"color: #cc99ff\">Il faudra bien du courage!</span></p>\n<p>&nbsp;</p>"
+ },
+ "wp-login.php": {
+  "slug": "wp-login.php",
+  "url": "http://radotage010446g.unblog.fr/wp-login.php/",
+  "titre": "le radeau du radotage  › Se connecter",
+  "html": ""
+ }
+}

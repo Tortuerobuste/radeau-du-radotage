@@ -1,0 +1,61 @@
+---
+title: "Radotage: VOLUPTE"
+date: "2025-12-26"
+datetime: "2025-12-26T09:27:39+00:00"
+auteur: "010446g"
+categories: ["Non classé"]
+source: "http://radotage010446g.unblog.fr/2025/12/26/radotage-volupte/"
+slug: "2025-12-26-radotage-volupte"
+---
+
+# Radotage: VOLUPTE
+
+### volupté
+
+Il y avait dans le village, une douce jeunesse,dont le seul nom :VOLUPTE inspirait le bonheur. Il y avait, dans le village, comme dans tous les autres, des gens dont les ulcères inspiraient la pitié. Ceux-ci n’avaient jamais à l’égard de la fille un mot ni de tendresse, ni même d’amitié. Or, dans la montagne, surgit, cette année-là, un monstre assoiffé. Ses pattes étaient griffues, et son corps écaillé. Ses yeux jetaient du feu. Son groin était difforme…Sa langue ,à mille queues, semblait faite de viornes.
+
+Un jour de pleine lune, le monstre apparut au sortir de la messe et fixa dans les yeux la grosse LEONIE dont la langue fourchue ne ratait jamais, non jamais, une méchanceté….La LEONIE d’un coup, en fut transfigurée. Elle avança vers lui à ce point fascinée qu’elle en faisait des mines devant les villageois un peu éberlués…  
+La LEONIE suivit avec docilité le monstre aux doigts fourchus et au corps écaillé.
+
+On ne la revit plus pendant une quinzaine. On la chercha un peu, pas trop, mais quand bien même !…Et puis, le soir venu de la nouvelle lune, elle reparut soudain sur la place ensombrée…Les cernes de ses yeux tombaient jusqu’au menton, sa langue était pendante et rasait le gazon. Lentement, d’un pas court, marchant à quatre pattes, car son ventre traînait comme une vieille « pâte » elle alla se coucher sans un mot, dans l’étable, sur le tas de fumier….Les vaches, elles-mêmes n’en crurent pas leurs yeux ! De mémoire d’humain, jamais elle ne raconta rien !
+
+Deux semaines plus tard, le monstre reparut au sortir de l’église, découvrant ses dents jaunâtres et acérées….L’AMELIE toute sèche, à la langue en crochet, à son tour, fascinée suivit docilement le monstre aux yeux de braise et à la queue dressée.
+
+On ne la revit plus pendant une quinzaine. On la chercha un peu, pas trop, mais quand bien même !….Et puis, le soir venu de la nouvelle lune, elle reparut soudain dans la rue ensombrée…Les cernes de ses yeux envahissaient les joues, sa langue était pendante et lèchait le gazon, lentement d’un pas court, marchant sur les genoux, elle alla se coucher dans le creux du fenier où les rats eux-mêmes n’en crurent pas leurs yeux. De mémoire d’humain, jamais elle ne raconta mot.
+
+Le MAIRE, pour l’instant, n’était pas trop inquiet : que de vieilles bigottes se fassent un peu rosser, ça ne pouvait, à lui, que quelque peu lui plaire! ….Le CURE, aux offices, voulait que l’on priât pour que la main de DIEU s’abattant sur la bête réduise à néant ses effets malfaisants…Mais, comme, librement, les deux laides commères avaient, c’était patent suivi….SATAN…Peut-être….On n’insista pas trop car on ne sait jamais !
+
+Le huitième dimanche, le monstre était là…Le CURE sortit avec son goupillon. Il s’approcha tout doux de la satanique bête, mais il ne leva pas son arme, au contraire : il suivit sans prononcer un mot le monstre au groin difforme et aux griffes pointues.
+
+On ne le revit plus pendant une quinzaine. On le chercha un peu, pas trop, …mais tout de même…Il manquait à de vieilles bigottes qui ne pouvaient plus jouir en pensée en revivant, dans le confessionnal les plus doux de leurs péchés !…Et puis, le soir venu de la nouvelle lune, il reparut soudain à la cure ensombrée…Les cernes de ses yeux prolongeaient son étole ! Sa langue était pendante et lèchait les carreaux. Lentement, d’un pas court, traînant à quatre pattes, car son ventre frottait le sol en avançant, il alla se coucher sans un mot dans la fosse commune où il faisait jeter ceux qui à son gré n’avaient pas bien contribué à verser au denier par pure dévotion….Les morts eux-mêmes n’en crurent pas leurs yeux !
+
+Le douzième dimanche, le monstre était là    ….mais personne ne vint vers lui pour une fois….Hélas !  le lundi, au sortir de l’école, il était revenu !…Il avait regardé avec intensité la maîtresse d’école, vous savez, celle qui faisait les leçons de morale !….Elle l’avait suivi ! ! !
+
+Le MAIRE alors bondit : EN S’ATTAQUANT A L’INSTITUTRICE, C’EST A  
+LA REPUBLIQUE QUE CE MONSTRE A VOULU FAIRE  
+LA NIQUE ! ! !
+
+On chercha de partout et même les gendarmes vinrent du chef-lieu diligenter l’enquête…. On ne la revit pas pendant une quinzaine,on la chercha un peu…très peu…les enfants pas du tout !…Et puis, le soir venu de la nouvelle lune, elle reparut soudain sous le préau ensombré. Les cernes de ses yeux affleuraient ses poignets. Sa langue était pendante et lèchait le goudron. Lentement, d’un pas court, marchant à quatre pattes car son ventre traînait comme une vieille éponge, elle alla se calfeutrer dans la cave où elle enfermait les petits qui n’avaient pas, selon son opinion assez bien, devant elle, fait la génuflexion…
+
+Douze jours plus tard, le monstre se trouvait devant la mairie…Les PANDORES suivirent la bête malfaisante…Jusqu’où ? On se demande ! …Mais lorsqu’ils revinrent, les cernes de leurs yeux traînaient sur leur gâchette. Leur langue était pendante et labourait la boue. A un pas cadencé d’escargots militaires, ils allèrent sans un mot dans la geôle où toujours, pour l’exemple, ils n’oubliaient pas d’enfermer l’innocent…
+
+L’ARMEE donc intervint : il lui fallait détruire cette bête immonde qui ne respectait rien : ni église, ni maître, ni même  
+la REPUBLIQUE !
+
+Les journaux furent pleins des méfaits supposés du monstre DONT AUCUNE VICTIME N’AVAIT ENCORE PARLE…..
+
+Pendant plus de trois mois, on ne l’aperçut pas…  
+Et puis, un jour d’automne, tout à l’entrée du bois, devant deux cents personnes, mille chiens aux abois, la bête se dressa. Elle tendit ses griffes vers la douce VOLUPTE qui, en se débattant, dans les bois fut traînée…
+
+Aussitôt, tout ce que le village comptait de méchanceté et de jalousie se mit à exulter à la pensée des supplices qu’elle allait endurer…car, enfin, c’était JUSTE que ce soit ELLE qui souffre le plus ! ! ! Ne prodiguait-t-elle pas son amour sans compter…Qui ne voulait même pas haïr les étrangers ! Non ! décidément, pour une fois, cette bête était bonne ! ! !
+
+Certains n’en dormaient pas : ils la voyaient toute lacérée, sans dents, échevelée, bras désarticulés, jambes écartelées…
+
+OUI…MAIS…TROIS JOURS APRES, à l’entrée du village, on la vit arriver toute blonde et pimpante, radieuse, encore plus belle, tenant dans sa main de déesse une laisse au bout de laquelle courait l’horrible créature comme un doux-doux chien-chien !..Un monstre assoiffé seulement d’amitié ;
+
+Elle l’a attaché à l’arbre de la sagacité…  
+MEFIEZ-VOUS, MEDISANTS ! CAR IL Y EST TOUJOURS !  
+NE CALOMNIEZ JAMAIS, JAMAIS,  
+LA VOLUPTE
+
+Cet article a été posté le Lundi 11 avril 2011
